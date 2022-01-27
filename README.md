@@ -17,11 +17,11 @@
     <ul>
           <li>Fork the repo.</li>
           <li>Create a new branch (git checkout -b improve-feature)</li>
-           <li>Make the appropriate changes in the files</li>
-            <li>FAdd changes to reflect the changes made</li>
-             <li>FCommit your changes (git commit -am 'Improve feature')</li>
-              <li>Commit your changes (git commit -am 'Improve feature')</li>
-               <li>Create a Pull Request</li>
+          <li>Make the appropriate changes in the files</li>
+          <li>Add changes to reflect the changes made</li>
+          <li>Commit your changes (git commit -am 'Improve feature')</li>
+          <li>Commit your changes (git commit -am 'Improve feature')</li>
+          <li>Create a Pull Request</li>
     </ul>
 
 <h1>Bug /Feature support</h1>
